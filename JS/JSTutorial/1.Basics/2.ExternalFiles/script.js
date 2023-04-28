@@ -1,0 +1,1 @@
+document.write("Now using Script.js");
